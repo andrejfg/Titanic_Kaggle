@@ -9,3 +9,6 @@ Além disso, foram criados modelos de predição utilizando tecnicas de supervis
 * SVM com validação cruzada e seleção de atributos - 99.04% de acurácia
 * K-Means - 1.0 de Completude
 * Birch - 0.76 de Completude
+
+
+https://www.kaggle.com/c/titanic
